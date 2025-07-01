@@ -1,0 +1,565 @@
+session_id,therapist_id,therapist_name,client_id,session_date,session_time,session_type,duration_minutes,status,amount,notes
+S0001,T006,Dr. James Wilson,C112,2025-01-23,13:30,Group Therapy,50,Completed,102.0,Session completed successfully
+S0003,T004,Dr. David Thompson,C037,2024-07-25,17:30,Family Therapy,60,Completed,180.0,Session completed successfully
+S0004,T006,Dr. James Wilson,C082,2024-07-15,13:30,Couples Therapy,60,Completed,170.0,Client engaged throughout session
+S0005,T003,Dr. Emily Rodriguez,C160,2024-10-28,16:00,Initial Consultation,90,Completed,192.0,Client engaged throughout session
+S0008,T004,Dr. David Thompson,C167,2024-08-19,15:00,Initial Consultation,90,Completed,216.0,Homework assigned for next week
+S0009,T001,Dr. Sarah Johnson,C187,2024-07-23,15:30,Individual Therapy,50,Completed,150.0,Session completed successfully
+S0010,T002,Dr. Michael Chen,C006,2025-01-28,17:00,Individual Therapy,50,Completed,175.0,Session completed successfully
+S0011,T003,Dr. Emily Rodriguez,C169,2024-11-15,12:00,Group Therapy,50,Completed,96.0,Homework assigned for next week
+S0014,T002,Dr. Michael Chen,C033,2024-08-16,10:30,Individual Therapy,50,Cancelled,0.0,Client cancelled 24 hours in advance
+S0015,T004,Dr. David Thompson,C076,2025-04-23,10:00,Family Therapy,60,No-Show,0.0,Third no-show this month
+S0016,T004,Dr. David Thompson,C167,2025-03-26,10:00,Individual Therapy,50,Completed,180.0,Homework assigned for next week
+S0017,T002,Dr. Michael Chen,C175,2024-09-16,12:30,Group Therapy,50,Completed,105.0,"Regular session, no concerns"
+S0018,T003,Dr. Emily Rodriguez,C100,2024-11-11,14:30,Individual Therapy,50,Completed,160.0,Good progress noted
+S0019,T005,Dr. Lisa Anderson,C178,2024-08-14,13:00,Group Therapy,50,Completed,93.0,Client engaged throughout session
+S0020,T001,Dr. Sarah Johnson,C015,2024-08-12,12:00,Individual Therapy,50,Completed,150.0,Client engaged throughout session
+S0021,T002,Dr. Michael Chen,C042,2024-07-24,17:00,Group Therapy,50,Completed,105.0,Client engaged throughout session
+S0022,T003,Dr. Emily Rodriguez,C171,2024-07-12,16:00,Group Therapy,50,Completed,96.0,"Regular session, no concerns"
+S0023,T003,Dr. Emily Rodriguez,C048,2025-01-14,11:30,Group Therapy,50,Completed,96.0,Good progress noted
+S0025,T002,Dr. Michael Chen,C030,2025-04-25,13:00,Individual Therapy,50,Completed,175.0,Session completed successfully
+S0026,T002,Dr. Michael Chen,C193,2024-12-03,10:30,Group Therapy,50,Completed,105.0,"Regular session, no concerns"
+S0027,T003,Dr. Emily Rodriguez,C148,2025-03-20,11:00,Family Therapy,60,Completed,160.0,Homework assigned for next week
+S0028,T005,Dr. Lisa Anderson,C163,2025-03-12,15:00,Initial Consultation,90,Completed,186.0,Client engaged throughout session
+S0029,T004,Dr. David Thompson,C044,2025-03-19,09:30,Initial Consultation,90,Completed,216.0,Session completed successfully
+S0030,T002,Dr. Michael Chen,C108,2025-06-30,17:30,Couples Therapy,60,Completed,175.0,Session completed successfully
+S0031,T003,Dr. Emily Rodriguez,C035,2024-11-07,16:30,Couples Therapy,60,Completed,160.0,Homework assigned for next week
+S0032,T002,Dr. Michael Chen,C127,2024-11-25,11:00,Initial Consultation,90,Completed,210.0,Session completed successfully
+S0033,T002,Dr. Michael Chen,C162,2024-08-06,09:00,Individual Therapy,50,Cancelled,0.0,Emergency cancellation
+S0034,T001,Dr. Sarah Johnson,C106,2025-06-13,12:30,Couples Therapy,60,Completed,150.0,Client engaged throughout session
+S0035,T002,Dr. Michael Chen,C156,2024-12-13,17:30,Couples Therapy,60,Completed,175.0,Homework assigned for next week
+S0036,T006,Dr. James Wilson,C112,2024-12-26,10:00,Initial Consultation,90,Completed,204.0,Homework assigned for next week
+S0037,T001,Dr. Sarah Johnson,C099,2024-09-12,09:30,Individual Therapy,50,Cancelled,0.0,Client cancelled 24 hours in advance
+S0040,T002,Dr. Michael Chen,C176,2024-07-04,12:30,Couples Therapy,60,Completed,175.0,Session completed successfully
+S0041,T003,Dr. Emily Rodriguez,C063,2025-01-17,12:30,Family Therapy,60,No-Show,0.0,Client did not attend
+S0042,T001,Dr. Sarah Johnson,C094,2025-04-02,11:00,Initial Consultation,90,Completed,180.0,Homework assigned for next week
+S0044,T002,Dr. Michael Chen,C023,2024-10-23,10:00,Group Therapy,50,Completed,105.0,Homework assigned for next week
+S0045,T004,Dr. David Thompson,C045,2025-04-23,14:00,Initial Consultation,90,Completed,216.0,Good progress noted
+S0046,T004,Dr. David Thompson,C124,2025-06-02,10:30,Family Therapy,60,Completed,180.0,Good progress noted
+S0047,T002,Dr. Michael Chen,C043,2025-05-02,10:00,Family Therapy,60,Completed,175.0,Homework assigned for next week
+S0048,T001,Dr. Sarah Johnson,C117,2025-02-17,10:00,Couples Therapy,60,Completed,150.0,"Regular session, no concerns"
+S0049,T006,Dr. James Wilson,C149,2024-08-28,12:00,Family Therapy,60,Cancelled,0.0,Emergency cancellation
+S0050,T005,Dr. Lisa Anderson,C067,2025-01-09,14:30,Initial Consultation,90,Completed,186.0,"Regular session, no concerns"
+S0052,T004,Dr. David Thompson,C035,2024-12-25,16:00,Couples Therapy,60,Completed,180.0,Session completed successfully
+S0053,T004,Dr. David Thompson,C030,2025-04-18,13:30,Family Therapy,60,Completed,180.0,Homework assigned for next week
+S0054,T002,Dr. Michael Chen,C191,2025-07-02,16:00,Couples Therapy,60,No-Show,0.0,No advance notice given
+S0055,T006,Dr. James Wilson,C140,2024-07-22,09:30,Group Therapy,50,Completed,102.0,"Regular session, no concerns"
+S0056,T001,Dr. Sarah Johnson,C072,2025-02-17,16:30,Initial Consultation,90,Completed,180.0,Client engaged throughout session
+S0057,T001,Dr. Sarah Johnson,C144,2025-05-30,17:00,Individual Therapy,50,Cancelled,0.0,Emergency cancellation
+S0059,T003,Dr. Emily Rodriguez,C108,2024-10-10,09:30,Family Therapy,60,Completed,160.0,"Regular session, no concerns"
+S0060,T004,Dr. David Thompson,C170,2024-07-17,11:00,Couples Therapy,60,Completed,180.0,Session completed successfully
+S0063,T006,Dr. James Wilson,C071,2024-12-30,11:00,Group Therapy,50,Cancelled,0.0,Emergency cancellation
+S0064,T005,Dr. Lisa Anderson,C127,2024-09-04,17:30,Couples Therapy,60,Completed,155.0,Session completed successfully
+S0065,T002,Dr. Michael Chen,C155,2025-03-17,13:00,Individual Therapy,50,Completed,175.0,Client engaged throughout session
+S0068,T001,Dr. Sarah Johnson,C036,2024-11-22,12:30,Couples Therapy,60,Completed,150.0,Client engaged throughout session
+S0070,T002,Dr. Michael Chen,C026,2025-06-12,14:30,Family Therapy,60,Completed,175.0,Homework assigned for next week
+S0072,T003,Dr. Emily Rodriguez,C079,2024-07-31,12:00,Initial Consultation,90,Cancelled,0.0,Cancelled due to illness
+S0074,T005,Dr. Lisa Anderson,C081,2025-01-02,12:30,Initial Consultation,90,Completed,186.0,Client engaged throughout session
+S0075,T001,Dr. Sarah Johnson,C086,2025-05-15,14:00,Group Therapy,50,Cancelled,0.0,Emergency cancellation
+S0076,T005,Dr. Lisa Anderson,C112,2025-04-01,14:30,Couples Therapy,60,Cancelled,0.0,Client cancelled 24 hours in advance
+S0077,T004,Dr. David Thompson,C063,2025-02-04,17:30,Initial Consultation,90,Completed,216.0,Session completed successfully
+S0079,T001,Dr. Sarah Johnson,C150,2024-11-19,17:00,Initial Consultation,90,Completed,180.0,"Regular session, no concerns"
+S0080,T003,Dr. Emily Rodriguez,C178,2024-09-09,13:30,Group Therapy,50,Completed,96.0,Homework assigned for next week
+S0082,T006,Dr. James Wilson,C194,2024-08-05,13:00,Individual Therapy,50,Completed,170.0,Homework assigned for next week
+S0083,T004,Dr. David Thompson,C020,2024-11-11,10:30,Initial Consultation,90,Cancelled,0.0,Cancelled due to illness
+S0084,T001,Dr. Sarah Johnson,C110,2025-03-24,16:30,Family Therapy,60,Completed,150.0,"Regular session, no concerns"
+S0085,T001,Dr. Sarah Johnson,C027,2025-07-02,10:00,Couples Therapy,60,No-Show,0.0,Missed appointment
+S0086,T004,Dr. David Thompson,C198,2025-05-15,11:00,Initial Consultation,90,Completed,216.0,Client engaged throughout session
+S0090,T003,Dr. Emily Rodriguez,C154,2024-11-22,17:00,Family Therapy,60,Completed,160.0,Good progress noted
+S0092,T006,Dr. James Wilson,C002,2025-02-05,15:30,Couples Therapy,60,Completed,170.0,"Regular session, no concerns"
+S0093,T003,Dr. Emily Rodriguez,C174,2025-04-18,17:30,Group Therapy,50,Completed,96.0,Good progress noted
+S0095,T004,Dr. David Thompson,C153,2025-06-18,12:00,Group Therapy,50,Completed,108.0,Good progress noted
+S0097,T005,Dr. Lisa Anderson,C012,2024-12-05,11:30,Group Therapy,50,Completed,93.0,"Regular session, no concerns"
+S0098,T006,Dr. James Wilson,C116,2025-05-16,16:30,Family Therapy,60,Completed,170.0,Client engaged throughout session
+S0099,T006,Dr. James Wilson,C058,2024-07-02,11:30,Individual Therapy,50,Completed,170.0,Client engaged throughout session
+S0100,T005,Dr. Lisa Anderson,C146,2025-02-07,12:30,Couples Therapy,60,Completed,155.0,Homework assigned for next week
+S0101,T001,Dr. Sarah Johnson,C040,2024-08-15,12:30,Individual Therapy,50,Cancelled,0.0,Cancelled due to illness
+S0102,T006,Dr. James Wilson,C107,2024-10-15,16:30,Individual Therapy,50,Cancelled,0.0,Cancelled - family emergency
+S0104,T006,Dr. James Wilson,C194,2024-07-17,11:30,Family Therapy,60,Completed,170.0,Good progress noted
+S0105,T001,Dr. Sarah Johnson,C093,2024-11-29,10:00,Initial Consultation,90,Cancelled,0.0,Emergency cancellation
+S0107,T005,Dr. Lisa Anderson,C175,2024-08-27,14:30,Group Therapy,50,Cancelled,0.0,Cancelled due to illness
+S0109,T004,Dr. David Thompson,C121,2024-09-26,16:00,Couples Therapy,60,Cancelled,0.0,Cancelled - family emergency
+S0111,T002,Dr. Michael Chen,C121,2025-01-29,10:30,Individual Therapy,50,Completed,175.0,"Regular session, no concerns"
+S0112,T001,Dr. Sarah Johnson,C145,2024-09-18,10:30,Group Therapy,50,Completed,90.0,Session completed successfully
+S0113,T001,Dr. Sarah Johnson,C079,2024-09-12,12:00,Initial Consultation,90,Completed,180.0,Good progress noted
+S0115,T002,Dr. Michael Chen,C098,2025-05-09,10:30,Individual Therapy,50,Completed,175.0,Session completed successfully
+S0116,T001,Dr. Sarah Johnson,C046,2024-07-30,13:00,Group Therapy,50,Completed,90.0,"Regular session, no concerns"
+S0117,T003,Dr. Emily Rodriguez,C122,2025-05-12,13:30,Individual Therapy,50,Completed,160.0,Session completed successfully
+S0118,T005,Dr. Lisa Anderson,C140,2024-12-30,13:00,Couples Therapy,60,Completed,155.0,"Regular session, no concerns"
+S0120,T004,Dr. David Thompson,C192,2025-01-03,16:30,Individual Therapy,50,Completed,180.0,"Regular session, no concerns"
+S0121,T001,Dr. Sarah Johnson,C170,2025-06-25,15:30,Couples Therapy,60,Completed,150.0,Session completed successfully
+S0123,T001,Dr. Sarah Johnson,C056,2024-10-09,13:30,Initial Consultation,90,Completed,180.0,Session completed successfully
+S0124,T004,Dr. David Thompson,C094,2025-06-06,10:30,Couples Therapy,60,Completed,180.0,Homework assigned for next week
+S0125,T001,Dr. Sarah Johnson,C147,2025-05-05,09:30,Initial Consultation,90,Completed,180.0,"Regular session, no concerns"
+S0126,T001,Dr. Sarah Johnson,C094,2024-08-09,09:00,Couples Therapy,60,Completed,150.0,"Regular session, no concerns"
+S0127,T003,Dr. Emily Rodriguez,C096,2024-12-23,09:30,Individual Therapy,50,Completed,160.0,Good progress noted
+S0129,T001,Dr. Sarah Johnson,C080,2024-12-25,11:00,Initial Consultation,90,Completed,180.0,Client engaged throughout session
+S0130,T001,Dr. Sarah Johnson,C061,2025-03-11,17:30,Individual Therapy,50,Completed,150.0,"Regular session, no concerns"
+S0131,T003,Dr. Emily Rodriguez,C023,2024-08-06,17:30,Initial Consultation,90,Completed,192.0,Good progress noted
+S0132,T001,Dr. Sarah Johnson,C155,2025-04-08,13:00,Group Therapy,50,Completed,90.0,Homework assigned for next week
+S0133,T005,Dr. Lisa Anderson,C196,2024-07-26,17:00,Couples Therapy,60,Cancelled,0.0,Client requested reschedule
+S0134,T002,Dr. Michael Chen,C069,2025-05-22,16:00,Initial Consultation,90,Cancelled,0.0,Client cancelled 24 hours in advance
+S0135,T005,Dr. Lisa Anderson,C099,2025-03-14,16:30,Family Therapy,60,Completed,155.0,"Regular session, no concerns"
+S0137,T004,Dr. David Thompson,C144,2025-06-02,09:30,Individual Therapy,50,Cancelled,0.0,Client requested reschedule
+S0139,T006,Dr. James Wilson,C178,2024-10-15,12:30,Individual Therapy,50,Completed,170.0,Good progress noted
+S0140,T006,Dr. James Wilson,C043,2024-08-07,11:30,Family Therapy,60,Completed,170.0,Good progress noted
+S0141,T003,Dr. Emily Rodriguez,C146,2024-10-09,13:30,Couples Therapy,60,No-Show,0.0,Third no-show this month
+S0143,T004,Dr. David Thompson,C095,2024-12-19,16:00,Couples Therapy,60,Completed,180.0,Homework assigned for next week
+S0147,T001,Dr. Sarah Johnson,C104,2024-09-19,10:30,Individual Therapy,50,Cancelled,0.0,Client cancelled 24 hours in advance
+S0148,T003,Dr. Emily Rodriguez,C139,2025-06-18,10:30,Family Therapy,60,Completed,160.0,"Regular session, no concerns"
+S0149,T006,Dr. James Wilson,C168,2024-07-30,16:00,Group Therapy,50,Completed,102.0,Homework assigned for next week
+S0150,T005,Dr. Lisa Anderson,C117,2024-12-12,11:00,Initial Consultation,90,Completed,186.0,Client engaged throughout session
+S0151,T006,Dr. James Wilson,C038,2024-11-20,10:00,Initial Consultation,90,Completed,204.0,Homework assigned for next week
+S0156,T001,Dr. Sarah Johnson,C132,2025-03-06,17:00,Initial Consultation,90,Completed,180.0,Homework assigned for next week
+S0157,T001,Dr. Sarah Johnson,C129,2025-03-13,16:00,Couples Therapy,60,Completed,150.0,Good progress noted
+S0158,T006,Dr. James Wilson,C014,2025-06-20,11:30,Family Therapy,60,Completed,170.0,Session completed successfully
+S0159,T002,Dr. Michael Chen,C152,2025-02-11,12:00,Couples Therapy,60,Completed,175.0,"Regular session, no concerns"
+S0160,T005,Dr. Lisa Anderson,C160,2024-09-05,12:00,Initial Consultation,90,Completed,186.0,Good progress noted
+S0161,T001,Dr. Sarah Johnson,C135,2025-03-24,14:00,Group Therapy,50,No-Show,0.0,Third no-show this month
+S0162,T006,Dr. James Wilson,C060,2025-01-08,12:30,Couples Therapy,60,Completed,170.0,Homework assigned for next week
+S0163,T006,Dr. James Wilson,C094,2024-11-08,10:30,Family Therapy,60,Completed,170.0,"Regular session, no concerns"
+S0165,T004,Dr. David Thompson,C017,2024-11-21,16:00,Group Therapy,50,Completed,108.0,Good progress noted
+S0166,T003,Dr. Emily Rodriguez,C012,2025-06-04,11:00,Individual Therapy,50,Completed,160.0,Session completed successfully
+S0167,T003,Dr. Emily Rodriguez,C111,2025-06-24,09:00,Initial Consultation,90,Cancelled,0.0,Cancelled due to illness
+S0168,T001,Dr. Sarah Johnson,C168,2024-08-08,11:00,Individual Therapy,50,No-Show,0.0,No advance notice given
+S0169,T001,Dr. Sarah Johnson,C026,2024-10-29,11:00,Individual Therapy,50,Completed,150.0,"Regular session, no concerns"
+S0170,T006,Dr. James Wilson,C196,2024-09-18,17:00,Initial Consultation,90,Completed,204.0,Homework assigned for next week
+S0171,T002,Dr. Michael Chen,C119,2025-06-30,10:30,Individual Therapy,50,Cancelled,0.0,Client cancelled 24 hours in advance
+S0172,T001,Dr. Sarah Johnson,C176,2024-08-14,11:00,Individual Therapy,50,Completed,150.0,"Regular session, no concerns"
+S0173,T006,Dr. James Wilson,C100,2024-07-11,16:00,Individual Therapy,50,Cancelled,0.0,Cancelled - family emergency
+S0174,T002,Dr. Michael Chen,C182,2024-10-17,10:30,Couples Therapy,60,Completed,175.0,Client engaged throughout session
+S0175,T004,Dr. David Thompson,C196,2025-01-24,12:00,Couples Therapy,60,Cancelled,0.0,Client cancelled 24 hours in advance
+S0176,T001,Dr. Sarah Johnson,C191,2024-10-18,15:00,Group Therapy,50,Cancelled,0.0,Client requested reschedule
+S0178,T006,Dr. James Wilson,C118,2024-11-01,13:30,Individual Therapy,50,Completed,170.0,Homework assigned for next week
+S0181,T001,Dr. Sarah Johnson,C166,2024-07-18,10:30,Group Therapy,50,Completed,90.0,Client engaged throughout session
+S0183,T003,Dr. Emily Rodriguez,C098,2024-10-09,17:30,Group Therapy,50,Completed,96.0,"Regular session, no concerns"
+S0184,T006,Dr. James Wilson,C111,2025-02-10,15:00,Individual Therapy,50,Completed,170.0,"Regular session, no concerns"
+S0185,T001,Dr. Sarah Johnson,C081,2025-05-30,17:00,Couples Therapy,60,Completed,150.0,Good progress noted
+S0186,T005,Dr. Lisa Anderson,C096,2025-03-03,10:00,Individual Therapy,50,Completed,155.0,Client engaged throughout session
+S0187,T005,Dr. Lisa Anderson,C035,2025-06-18,16:00,Couples Therapy,60,Completed,155.0,"Regular session, no concerns"
+S0188,T003,Dr. Emily Rodriguez,C152,2024-07-29,11:30,Couples Therapy,60,Cancelled,0.0,Cancelled due to illness
+S0189,T005,Dr. Lisa Anderson,C198,2025-01-03,17:30,Individual Therapy,50,Cancelled,0.0,Client requested reschedule
+S0190,T006,Dr. James Wilson,C179,2025-03-25,12:00,Initial Consultation,90,Completed,204.0,Session completed successfully
+S0191,T005,Dr. Lisa Anderson,C071,2025-05-09,14:00,Initial Consultation,90,Completed,186.0,Good progress noted
+S0192,T003,Dr. Emily Rodriguez,C179,2024-08-02,15:00,Initial Consultation,90,Completed,192.0,"Regular session, no concerns"
+S0193,T001,Dr. Sarah Johnson,C148,2025-05-01,12:30,Couples Therapy,60,Completed,150.0,Session completed successfully
+S0194,T002,Dr. Michael Chen,C169,2025-04-09,16:30,Individual Therapy,50,Completed,175.0,Good progress noted
+S0197,T004,Dr. David Thompson,C026,2025-01-23,12:30,Initial Consultation,90,Completed,216.0,Good progress noted
+S0198,T003,Dr. Emily Rodriguez,C103,2024-12-12,09:00,Family Therapy,60,Completed,160.0,Session completed successfully
+S0201,T003,Dr. Emily Rodriguez,C051,2024-12-10,12:30,Couples Therapy,60,Completed,160.0,Client engaged throughout session
+S0202,T003,Dr. Emily Rodriguez,C046,2025-01-27,12:00,Group Therapy,50,Completed,96.0,"Regular session, no concerns"
+S0203,T001,Dr. Sarah Johnson,C094,2024-08-12,17:30,Individual Therapy,50,Completed,150.0,"Regular session, no concerns"
+S0205,T005,Dr. Lisa Anderson,C142,2024-09-27,11:00,Group Therapy,50,Cancelled,0.0,Client requested reschedule
+S0206,T005,Dr. Lisa Anderson,C030,2025-01-28,14:30,Family Therapy,60,Completed,155.0,Client engaged throughout session
+S0207,T004,Dr. David Thompson,C054,2025-03-03,16:30,Initial Consultation,90,Completed,216.0,Good progress noted
+S0208,T006,Dr. James Wilson,C096,2024-10-08,14:30,Couples Therapy,60,Cancelled,0.0,Cancelled due to illness
+S0209,T004,Dr. David Thompson,C069,2025-06-03,12:00,Individual Therapy,50,Cancelled,0.0,Client requested reschedule
+S0210,T003,Dr. Emily Rodriguez,C126,2024-07-30,09:00,Family Therapy,60,No-Show,0.0,Third no-show this month
+S0212,T002,Dr. Michael Chen,C051,2024-10-22,15:30,Initial Consultation,90,Completed,210.0,"Regular session, no concerns"
+S0215,T001,Dr. Sarah Johnson,C187,2024-07-23,15:00,Group Therapy,50,Completed,90.0,Client engaged throughout session
+S0216,T002,Dr. Michael Chen,C054,2024-10-01,09:00,Family Therapy,60,Completed,175.0,"Regular session, no concerns"
+S0217,T001,Dr. Sarah Johnson,C166,2025-03-24,10:00,Couples Therapy,60,Completed,150.0,Homework assigned for next week
+S0218,T005,Dr. Lisa Anderson,C191,2024-11-21,15:00,Initial Consultation,90,Completed,186.0,Session completed successfully
+S0219,T006,Dr. James Wilson,C132,2024-09-19,14:30,Couples Therapy,60,Completed,170.0,Homework assigned for next week
+S0220,T004,Dr. David Thompson,C109,2024-09-09,15:30,Family Therapy,60,Cancelled,0.0,Cancelled due to illness
+S0221,T004,Dr. David Thompson,C126,2025-01-15,14:00,Individual Therapy,50,Completed,180.0,"Regular session, no concerns"
+S0222,T006,Dr. James Wilson,C003,2024-10-08,17:30,Group Therapy,50,Cancelled,0.0,Client requested reschedule
+S0223,T002,Dr. Michael Chen,C170,2024-10-17,12:30,Family Therapy,60,Completed,175.0,"Regular session, no concerns"
+S0224,T005,Dr. Lisa Anderson,C178,2024-08-30,09:00,Family Therapy,60,Completed,155.0,"Regular session, no concerns"
+S0226,T005,Dr. Lisa Anderson,C035,2025-02-26,11:00,Family Therapy,60,Cancelled,0.0,Client cancelled 24 hours in advance
+S0227,T003,Dr. Emily Rodriguez,C028,2025-03-05,11:00,Group Therapy,50,Completed,96.0,Homework assigned for next week
+S0228,T002,Dr. Michael Chen,C186,2024-07-22,11:30,Couples Therapy,60,Cancelled,0.0,Emergency cancellation
+S0229,T002,Dr. Michael Chen,C003,2025-05-20,15:00,Individual Therapy,50,Completed,175.0,Good progress noted
+S0230,T001,Dr. Sarah Johnson,C174,2025-04-14,14:00,Couples Therapy,60,Completed,150.0,Client engaged throughout session
+S0231,T006,Dr. James Wilson,C116,2025-03-11,16:00,Initial Consultation,90,Completed,204.0,Client engaged throughout session
+S0232,T003,Dr. Emily Rodriguez,C091,2025-06-05,15:00,Individual Therapy,50,Completed,160.0,Good progress noted
+S0233,T001,Dr. Sarah Johnson,C194,2025-06-25,17:00,Family Therapy,60,Cancelled,0.0,Emergency cancellation
+S0235,T005,Dr. Lisa Anderson,C122,2025-06-12,15:30,Initial Consultation,90,Completed,186.0,Homework assigned for next week
+S0236,T001,Dr. Sarah Johnson,C029,2024-11-11,17:00,Initial Consultation,90,No-Show,0.0,Client not reachable
+S0241,T002,Dr. Michael Chen,C011,2025-05-05,09:30,Group Therapy,50,Completed,105.0,Session completed successfully
+S0244,T003,Dr. Emily Rodriguez,C168,2025-01-24,13:30,Couples Therapy,60,Completed,160.0,Client engaged throughout session
+S0248,T006,Dr. James Wilson,C174,2025-03-20,13:30,Initial Consultation,90,Completed,204.0,Homework assigned for next week
+S0249,T005,Dr. Lisa Anderson,C031,2024-10-14,11:30,Couples Therapy,60,Completed,155.0,Good progress noted
+S0253,T001,Dr. Sarah Johnson,C150,2024-10-25,13:00,Initial Consultation,90,Completed,180.0,Homework assigned for next week
+S0254,T004,Dr. David Thompson,C114,2024-10-30,16:00,Individual Therapy,50,Completed,180.0,Client engaged throughout session
+S0255,T003,Dr. Emily Rodriguez,C154,2025-01-01,11:30,Family Therapy,60,Completed,160.0,Good progress noted
+S0256,T004,Dr. David Thompson,C164,2024-08-27,14:30,Group Therapy,50,Completed,108.0,"Regular session, no concerns"
+S0258,T006,Dr. James Wilson,C078,2025-02-24,15:30,Group Therapy,50,Cancelled,0.0,Cancelled - family emergency
+S0259,T003,Dr. Emily Rodriguez,C038,2024-11-06,10:30,Group Therapy,50,No-Show,0.0,Third no-show this month
+S0261,T004,Dr. David Thompson,C048,2024-10-17,16:30,Initial Consultation,90,Completed,216.0,"Regular session, no concerns"
+S0262,T005,Dr. Lisa Anderson,C149,2025-05-02,17:00,Individual Therapy,50,No-Show,0.0,Client did not attend
+S0265,T006,Dr. James Wilson,C196,2024-07-31,12:30,Group Therapy,50,Completed,102.0,"Regular session, no concerns"
+S0268,T005,Dr. Lisa Anderson,C011,2024-07-31,16:30,Couples Therapy,60,Completed,155.0,Client engaged throughout session
+S0269,T003,Dr. Emily Rodriguez,C031,2025-06-03,14:00,Couples Therapy,60,Completed,160.0,Homework assigned for next week
+S0270,T002,Dr. Michael Chen,C010,2025-05-15,10:00,Family Therapy,60,Completed,175.0,"Regular session, no concerns"
+S0271,T002,Dr. Michael Chen,C019,2025-05-05,10:30,Group Therapy,50,Completed,105.0,Good progress noted
+S0272,T002,Dr. Michael Chen,C086,2024-09-18,14:30,Group Therapy,50,Completed,105.0,Homework assigned for next week
+S0273,T005,Dr. Lisa Anderson,C030,2024-08-30,17:00,Couples Therapy,60,No-Show,0.0,Client did not attend
+S0274,T001,Dr. Sarah Johnson,C116,2024-11-22,16:30,Initial Consultation,90,Completed,180.0,Good progress noted
+S0275,T002,Dr. Michael Chen,C134,2025-03-20,13:00,Couples Therapy,60,Completed,175.0,Homework assigned for next week
+S0276,T006,Dr. James Wilson,C081,2025-05-21,14:30,Group Therapy,50,Cancelled,0.0,Emergency cancellation
+S0279,T002,Dr. Michael Chen,C198,2024-11-06,09:00,Family Therapy,60,Completed,175.0,Session completed successfully
+S0280,T004,Dr. David Thompson,C145,2025-04-30,13:00,Couples Therapy,60,Completed,180.0,Client engaged throughout session
+S0282,T001,Dr. Sarah Johnson,C077,2024-09-10,16:30,Couples Therapy,60,Cancelled,0.0,Cancelled - family emergency
+S0283,T005,Dr. Lisa Anderson,C076,2025-01-16,11:30,Couples Therapy,60,No-Show,0.0,Client not reachable
+S0284,T004,Dr. David Thompson,C065,2025-03-28,10:00,Couples Therapy,60,Cancelled,0.0,Cancelled due to illness
+S0285,T001,Dr. Sarah Johnson,C179,2025-05-16,17:30,Initial Consultation,90,No-Show,0.0,Third no-show this month
+S0286,T002,Dr. Michael Chen,C003,2024-07-04,15:30,Family Therapy,60,Completed,175.0,Session completed successfully
+S0288,T005,Dr. Lisa Anderson,C094,2025-04-01,15:30,Family Therapy,60,Completed,155.0,Homework assigned for next week
+S0290,T005,Dr. Lisa Anderson,C060,2025-03-27,10:00,Initial Consultation,90,Completed,186.0,"Regular session, no concerns"
+S0291,T005,Dr. Lisa Anderson,C161,2025-02-03,14:00,Couples Therapy,60,Completed,155.0,Homework assigned for next week
+S0292,T002,Dr. Michael Chen,C117,2025-05-26,09:00,Initial Consultation,90,Completed,210.0,Client engaged throughout session
+S0294,T004,Dr. David Thompson,C043,2024-10-10,15:30,Initial Consultation,90,Cancelled,0.0,Client cancelled 24 hours in advance
+S0295,T001,Dr. Sarah Johnson,C098,2025-01-28,16:30,Couples Therapy,60,No-Show,0.0,Client did not attend
+S0296,T003,Dr. Emily Rodriguez,C027,2025-01-21,12:30,Family Therapy,60,Rescheduled,160.0,Rescheduled to next week
+S0297,T005,Dr. Lisa Anderson,C008,2025-01-01,15:00,Initial Consultation,90,Completed,186.0,Client engaged throughout session
+S0298,T002,Dr. Michael Chen,C003,2024-08-30,14:00,Group Therapy,50,Completed,105.0,Client engaged throughout session
+S0299,T005,Dr. Lisa Anderson,C147,2025-04-29,14:30,Group Therapy,50,Completed,93.0,Homework assigned for next week
+S0300,T002,Dr. Michael Chen,C064,2024-10-23,09:30,Initial Consultation,90,Completed,210.0,Homework assigned for next week
+S0304,T003,Dr. Emily Rodriguez,C140,2024-07-31,15:00,Family Therapy,60,Cancelled,0.0,Cancelled - family emergency
+S0306,T004,Dr. David Thompson,C023,2024-11-14,10:00,Group Therapy,50,Completed,108.0,Homework assigned for next week
+S0307,T003,Dr. Emily Rodriguez,C055,2024-12-18,14:30,Couples Therapy,60,No-Show,0.0,No advance notice given
+S0311,T004,Dr. David Thompson,C132,2025-03-05,12:00,Couples Therapy,60,No-Show,0.0,Client not reachable
+S0313,T006,Dr. James Wilson,C066,2025-03-28,16:00,Couples Therapy,60,Rescheduled,170.0,Moved to different time slot
+S0314,T006,Dr. James Wilson,C028,2025-05-28,09:30,Family Therapy,60,No-Show,0.0,Client not reachable
+S0315,T006,Dr. James Wilson,C012,2024-08-20,09:30,Family Therapy,60,Completed,170.0,Good progress noted
+S0316,T003,Dr. Emily Rodriguez,C015,2025-01-14,12:30,Initial Consultation,90,Completed,192.0,Good progress noted
+S0318,T004,Dr. David Thompson,C138,2024-08-26,11:00,Couples Therapy,60,Completed,180.0,Homework assigned for next week
+S0319,T004,Dr. David Thompson,C165,2024-08-28,15:30,Group Therapy,50,Completed,108.0,Homework assigned for next week
+S0320,T003,Dr. Emily Rodriguez,C020,2025-04-25,17:30,Individual Therapy,50,Completed,160.0,Client engaged throughout session
+S0321,T006,Dr. James Wilson,C148,2025-03-24,11:30,Group Therapy,50,Completed,102.0,Client engaged throughout session
+S0323,T005,Dr. Lisa Anderson,C019,2025-06-05,09:00,Group Therapy,50,Completed,93.0,"Regular session, no concerns"
+S0325,T005,Dr. Lisa Anderson,C128,2024-11-04,13:30,Group Therapy,50,Cancelled,0.0,Client cancelled 24 hours in advance
+S0328,T005,Dr. Lisa Anderson,C113,2024-11-27,11:00,Individual Therapy,50,Cancelled,0.0,Cancelled - family emergency
+S0329,T002,Dr. Michael Chen,C101,2024-11-04,09:00,Individual Therapy,50,Cancelled,0.0,Emergency cancellation
+S0330,T003,Dr. Emily Rodriguez,C120,2025-01-01,09:00,Individual Therapy,50,Completed,160.0,Client engaged throughout session
+S0331,T004,Dr. David Thompson,C193,2024-08-19,12:00,Family Therapy,60,Cancelled,0.0,Emergency cancellation
+S0332,T001,Dr. Sarah Johnson,C179,2025-02-25,14:00,Initial Consultation,90,No-Show,0.0,No advance notice given
+S0333,T006,Dr. James Wilson,C102,2025-04-02,14:00,Couples Therapy,60,No-Show,0.0,Client did not attend
+S0334,T001,Dr. Sarah Johnson,C039,2025-03-26,12:30,Family Therapy,60,Cancelled,0.0,Client requested reschedule
+S0335,T005,Dr. Lisa Anderson,C097,2024-09-12,17:30,Couples Therapy,60,Completed,155.0,Good progress noted
+S0336,T006,Dr. James Wilson,C147,2025-06-25,11:30,Individual Therapy,50,Completed,170.0,Homework assigned for next week
+S0338,T005,Dr. Lisa Anderson,C163,2025-02-07,16:00,Group Therapy,50,Completed,93.0,Client engaged throughout session
+S0339,T004,Dr. David Thompson,C044,2024-08-13,14:30,Couples Therapy,60,Completed,180.0,Client engaged throughout session
+S0340,T005,Dr. Lisa Anderson,C186,2025-03-17,11:00,Couples Therapy,60,Completed,155.0,Client engaged throughout session
+S0341,T002,Dr. Michael Chen,C070,2024-07-25,09:30,Group Therapy,50,Completed,105.0,Good progress noted
+S0342,T004,Dr. David Thompson,C161,2025-07-02,09:00,Family Therapy,60,Completed,180.0,"Regular session, no concerns"
+S0343,T001,Dr. Sarah Johnson,C072,2025-07-01,15:00,Individual Therapy,50,Cancelled,0.0,Cancelled due to illness
+S0346,T002,Dr. Michael Chen,C126,2024-10-04,12:30,Group Therapy,50,No-Show,0.0,No advance notice given
+S0347,T004,Dr. David Thompson,C142,2025-01-08,14:30,Family Therapy,60,Completed,180.0,Homework assigned for next week
+S0351,T001,Dr. Sarah Johnson,C066,2024-11-20,15:30,Family Therapy,60,Completed,150.0,"Regular session, no concerns"
+S0352,T005,Dr. Lisa Anderson,C059,2025-05-27,14:00,Family Therapy,60,Completed,155.0,Homework assigned for next week
+S0353,T001,Dr. Sarah Johnson,C070,2024-11-05,10:00,Individual Therapy,50,Completed,150.0,Session completed successfully
+S0354,T005,Dr. Lisa Anderson,C028,2024-10-23,15:00,Individual Therapy,50,Completed,155.0,"Regular session, no concerns"
+S0355,T003,Dr. Emily Rodriguez,C024,2025-03-27,15:30,Family Therapy,60,Completed,160.0,Client engaged throughout session
+S0357,T002,Dr. Michael Chen,C064,2024-10-17,13:30,Couples Therapy,60,No-Show,0.0,Client not reachable
+S0359,T004,Dr. David Thompson,C022,2025-06-03,10:30,Family Therapy,60,Rescheduled,180.0,Rescheduled to next week
+S0361,T002,Dr. Michael Chen,C089,2025-01-10,15:00,Group Therapy,50,Completed,105.0,Session completed successfully
+S0362,T001,Dr. Sarah Johnson,C173,2025-02-07,09:00,Couples Therapy,60,Cancelled,0.0,Emergency cancellation
+S0364,T005,Dr. Lisa Anderson,C151,2024-07-30,13:30,Group Therapy,50,Completed,93.0,Good progress noted
+S0365,T006,Dr. James Wilson,C126,2025-05-09,11:00,Family Therapy,60,Completed,170.0,Session completed successfully
+S0368,T002,Dr. Michael Chen,C097,2024-09-17,17:30,Initial Consultation,90,Completed,210.0,Session completed successfully
+S0371,T004,Dr. David Thompson,C143,2024-12-03,17:30,Family Therapy,60,Completed,180.0,Homework assigned for next week
+S0373,T001,Dr. Sarah Johnson,C141,2024-10-14,12:00,Group Therapy,50,Completed,90.0,Session completed successfully
+S0374,T004,Dr. David Thompson,C046,2024-12-04,10:00,Couples Therapy,60,Completed,180.0,Session completed successfully
+S0375,T001,Dr. Sarah Johnson,C131,2024-09-26,10:00,Family Therapy,60,Completed,150.0,Client engaged throughout session
+S0376,T005,Dr. Lisa Anderson,C105,2025-03-24,11:00,Couples Therapy,60,No-Show,0.0,Missed appointment
+S0378,T003,Dr. Emily Rodriguez,C025,2024-07-08,14:30,Couples Therapy,60,Completed,160.0,"Regular session, no concerns"
+S0379,T001,Dr. Sarah Johnson,C158,2024-11-14,15:30,Group Therapy,50,Cancelled,0.0,Cancelled due to illness
+S0380,T001,Dr. Sarah Johnson,C146,2024-08-19,15:00,Individual Therapy,50,Completed,150.0,Client engaged throughout session
+S0381,T004,Dr. David Thompson,C152,2024-09-27,17:30,Couples Therapy,60,Completed,180.0,Homework assigned for next week
+S0382,T006,Dr. James Wilson,C009,2025-06-11,11:30,Initial Consultation,90,Completed,204.0,Good progress noted
+S0386,T002,Dr. Michael Chen,C152,2024-08-07,11:00,Couples Therapy,60,Completed,175.0,Good progress noted
+S0389,T002,Dr. Michael Chen,C141,2025-02-26,12:00,Individual Therapy,50,Completed,175.0,Client engaged throughout session
+S0390,T005,Dr. Lisa Anderson,C081,2024-12-26,17:30,Group Therapy,50,Cancelled,0.0,Client cancelled 24 hours in advance
+S0391,T005,Dr. Lisa Anderson,C158,2025-03-26,09:00,Individual Therapy,50,Completed,155.0,Good progress noted
+S0392,T004,Dr. David Thompson,C143,2024-07-19,17:00,Group Therapy,50,Cancelled,0.0,Client requested reschedule
+S0393,T006,Dr. James Wilson,C174,2024-08-23,14:30,Couples Therapy,60,Completed,170.0,Client engaged throughout session
+S0394,T006,Dr. James Wilson,C046,2024-09-30,16:30,Individual Therapy,50,Cancelled,0.0,Client requested reschedule
+S0397,T005,Dr. Lisa Anderson,C038,2025-06-27,15:30,Couples Therapy,60,Completed,155.0,Good progress noted
+S0398,T006,Dr. James Wilson,C072,2025-03-28,12:00,Individual Therapy,50,Completed,170.0,Session completed successfully
+S0399,T005,Dr. Lisa Anderson,C110,2024-10-04,17:00,Couples Therapy,60,Cancelled,0.0,Client cancelled 24 hours in advance
+S0401,T003,Dr. Emily Rodriguez,C176,2024-10-04,14:00,Family Therapy,60,Completed,160.0,Client engaged throughout session
+S0403,T001,Dr. Sarah Johnson,C171,2025-06-20,14:30,Group Therapy,50,Completed,90.0,Client engaged throughout session
+S0405,T003,Dr. Emily Rodriguez,C109,2024-11-18,11:30,Group Therapy,50,Completed,96.0,"Regular session, no concerns"
+S0406,T006,Dr. James Wilson,C140,2025-05-01,09:00,Initial Consultation,90,Completed,204.0,"Regular session, no concerns"
+S0407,T005,Dr. Lisa Anderson,C175,2025-06-04,12:00,Family Therapy,60,Cancelled,0.0,Client requested reschedule
+S0408,T003,Dr. Emily Rodriguez,C101,2025-03-28,17:00,Initial Consultation,90,Completed,192.0,Homework assigned for next week
+S0409,T001,Dr. Sarah Johnson,C079,2025-03-26,17:00,Family Therapy,60,Completed,150.0,"Regular session, no concerns"
+S0410,T006,Dr. James Wilson,C185,2025-06-11,10:00,Family Therapy,60,Completed,170.0,"Regular session, no concerns"
+S0411,T002,Dr. Michael Chen,C198,2025-01-06,12:30,Group Therapy,50,Completed,105.0,Good progress noted
+S0412,T003,Dr. Emily Rodriguez,C049,2025-02-12,09:00,Couples Therapy,60,Completed,160.0,Good progress noted
+S0413,T003,Dr. Emily Rodriguez,C081,2025-06-27,15:00,Couples Therapy,60,Completed,160.0,Session completed successfully
+S0414,T005,Dr. Lisa Anderson,C062,2024-11-19,15:30,Group Therapy,50,Completed,93.0,Good progress noted
+S0416,T005,Dr. Lisa Anderson,C023,2024-11-29,16:00,Individual Therapy,50,Completed,155.0,Good progress noted
+S0417,T005,Dr. Lisa Anderson,C194,2024-12-24,09:30,Family Therapy,60,Completed,155.0,Client engaged throughout session
+S0418,T006,Dr. James Wilson,C188,2024-12-04,09:30,Individual Therapy,50,Completed,170.0,Good progress noted
+S0419,T002,Dr. Michael Chen,C182,2024-08-19,09:30,Family Therapy,60,Completed,175.0,Session completed successfully
+S0421,T002,Dr. Michael Chen,C152,2024-08-20,11:00,Group Therapy,50,Completed,105.0,Homework assigned for next week
+S0422,T006,Dr. James Wilson,C184,2024-12-20,13:30,Group Therapy,50,Completed,102.0,Homework assigned for next week
+S0423,T005,Dr. Lisa Anderson,C126,2025-03-26,15:30,Group Therapy,50,Completed,93.0,Session completed successfully
+S0426,T005,Dr. Lisa Anderson,C102,2024-08-21,11:30,Individual Therapy,50,Completed,155.0,Client engaged throughout session
+S0427,T003,Dr. Emily Rodriguez,C160,2024-10-15,12:30,Initial Consultation,90,Completed,192.0,Session completed successfully
+S0428,T005,Dr. Lisa Anderson,C020,2025-04-24,09:30,Group Therapy,50,No-Show,0.0,Client not reachable
+S0429,T005,Dr. Lisa Anderson,C047,2024-12-23,11:30,Couples Therapy,60,Completed,155.0,Client engaged throughout session
+S0430,T001,Dr. Sarah Johnson,C011,2025-01-09,16:00,Initial Consultation,90,Completed,180.0,Client engaged throughout session
+S0432,T001,Dr. Sarah Johnson,C067,2025-04-02,15:00,Couples Therapy,60,Completed,150.0,Homework assigned for next week
+S0433,T001,Dr. Sarah Johnson,C157,2024-12-19,11:00,Group Therapy,50,Completed,90.0,Session completed successfully
+S0434,T004,Dr. David Thompson,C133,2025-01-23,14:30,Initial Consultation,90,Completed,216.0,Good progress noted
+S0435,T005,Dr. Lisa Anderson,C114,2024-10-31,11:30,Individual Therapy,50,Completed,155.0,Good progress noted
+S0436,T006,Dr. James Wilson,C063,2024-09-19,11:30,Family Therapy,60,No-Show,0.0,No advance notice given
+S0437,T006,Dr. James Wilson,C128,2024-08-23,14:30,Couples Therapy,60,Completed,170.0,Client engaged throughout session
+S0438,T003,Dr. Emily Rodriguez,C032,2024-07-18,11:30,Couples Therapy,60,Completed,160.0,Session completed successfully
+S0439,T003,Dr. Emily Rodriguez,C092,2024-10-10,11:00,Initial Consultation,90,Completed,192.0,Homework assigned for next week
+S0440,T003,Dr. Emily Rodriguez,C076,2025-06-02,11:30,Couples Therapy,60,Completed,160.0,Homework assigned for next week
+S0441,T005,Dr. Lisa Anderson,C147,2024-08-22,14:30,Individual Therapy,50,Completed,155.0,"Regular session, no concerns"
+S0442,T001,Dr. Sarah Johnson,C014,2024-10-22,11:00,Group Therapy,50,Completed,90.0,Good progress noted
+S0443,T004,Dr. David Thompson,C132,2024-11-13,15:00,Group Therapy,50,Cancelled,0.0,Cancelled - family emergency
+S0444,T005,Dr. Lisa Anderson,C067,2025-07-01,16:30,Couples Therapy,60,Completed,155.0,"Regular session, no concerns"
+S0445,T001,Dr. Sarah Johnson,C073,2024-08-02,09:30,Individual Therapy,50,Completed,150.0,Homework assigned for next week
+S0446,T003,Dr. Emily Rodriguez,C100,2025-06-18,14:00,Couples Therapy,60,Cancelled,0.0,Client requested reschedule
+S0447,T004,Dr. David Thompson,C065,2025-01-30,10:00,Initial Consultation,90,Completed,216.0,"Regular session, no concerns"
+S0449,T004,Dr. David Thompson,C151,2025-07-02,15:30,Group Therapy,50,Cancelled,0.0,Cancelled due to illness
+S0450,T004,Dr. David Thompson,C091,2024-07-08,13:30,Family Therapy,60,Completed,180.0,Homework assigned for next week
+S0451,T002,Dr. Michael Chen,C097,2024-12-17,10:00,Couples Therapy,60,Cancelled,0.0,Client cancelled 24 hours in advance
+S0453,T006,Dr. James Wilson,C145,2025-02-17,16:30,Family Therapy,60,Cancelled,0.0,Client cancelled 24 hours in advance
+S0454,T004,Dr. David Thompson,C174,2024-08-22,12:30,Group Therapy,50,Completed,108.0,Client engaged throughout session
+S0457,T002,Dr. Michael Chen,C094,2024-11-27,16:00,Family Therapy,60,Completed,175.0,"Regular session, no concerns"
+S0458,T006,Dr. James Wilson,C107,2024-11-29,13:00,Initial Consultation,90,Completed,204.0,Session completed successfully
+S0459,T002,Dr. Michael Chen,C185,2025-01-22,12:00,Couples Therapy,60,Completed,175.0,Homework assigned for next week
+S0461,T002,Dr. Michael Chen,C057,2025-05-23,11:30,Couples Therapy,60,Completed,175.0,Homework assigned for next week
+S0462,T002,Dr. Michael Chen,C057,2025-06-20,11:30,Individual Therapy,50,No-Show,0.0,Missed appointment
+S0464,T006,Dr. James Wilson,C109,2025-01-01,14:00,Group Therapy,50,Completed,102.0,Client engaged throughout session
+S0465,T004,Dr. David Thompson,C096,2024-10-23,16:30,Individual Therapy,50,Completed,180.0,Client engaged throughout session
+S0467,T001,Dr. Sarah Johnson,C125,2024-09-30,15:30,Individual Therapy,50,Completed,150.0,Homework assigned for next week
+S0468,T006,Dr. James Wilson,C043,2024-08-27,12:30,Individual Therapy,50,Completed,170.0,"Regular session, no concerns"
+S0469,T004,Dr. David Thompson,C023,2025-03-13,16:30,Individual Therapy,50,Completed,180.0,Session completed successfully
+S0471,T005,Dr. Lisa Anderson,C091,2024-12-20,17:00,Group Therapy,50,Completed,93.0,Good progress noted
+S0472,T002,Dr. Michael Chen,C032,2024-11-08,16:00,Family Therapy,60,Completed,175.0,"Regular session, no concerns"
+S0473,T003,Dr. Emily Rodriguez,C131,2025-03-28,10:30,Group Therapy,50,Completed,96.0,Good progress noted
+S0474,T001,Dr. Sarah Johnson,C006,2025-06-06,17:30,Group Therapy,50,Completed,90.0,Client engaged throughout session
+S0475,T006,Dr. James Wilson,C182,2024-09-19,09:30,Group Therapy,50,Completed,102.0,Session completed successfully
+S0476,T005,Dr. Lisa Anderson,C019,2025-04-09,16:00,Family Therapy,60,Cancelled,0.0,Cancelled - family emergency
+S0478,T003,Dr. Emily Rodriguez,C083,2025-01-02,14:30,Family Therapy,60,Completed,160.0,Client engaged throughout session
+S0479,T002,Dr. Michael Chen,C058,2024-08-05,16:00,Individual Therapy,50,No-Show,0.0,Third no-show this month
+S0480,T004,Dr. David Thompson,C172,2024-12-02,13:00,Couples Therapy,60,Completed,180.0,Good progress noted
+S0481,T004,Dr. David Thompson,C085,2025-05-02,15:00,Family Therapy,60,Completed,180.0,Good progress noted
+S0482,T003,Dr. Emily Rodriguez,C071,2024-12-18,09:00,Couples Therapy,60,No-Show,0.0,Third no-show this month
+S0483,T005,Dr. Lisa Anderson,C200,2024-09-11,10:00,Family Therapy,60,No-Show,0.0,Client did not attend
+S0485,T001,Dr. Sarah Johnson,C019,2025-05-26,14:30,Individual Therapy,50,Completed,150.0,"Regular session, no concerns"
+S0487,T002,Dr. Michael Chen,C053,2024-12-30,11:00,Group Therapy,50,Completed,105.0,Session completed successfully
+S0488,T001,Dr. Sarah Johnson,C137,2024-09-03,16:00,Individual Therapy,50,Completed,150.0,Homework assigned for next week
+S0489,T005,Dr. Lisa Anderson,C035,2025-02-18,14:30,Couples Therapy,60,Cancelled,0.0,Client cancelled 24 hours in advance
+S0490,T002,Dr. Michael Chen,C026,2024-08-13,10:00,Initial Consultation,90,Completed,210.0,Session completed successfully
+S0492,T005,Dr. Lisa Anderson,C073,2024-12-17,13:30,Couples Therapy,60,No-Show,0.0,Client did not attend
+S0493,T004,Dr. David Thompson,C113,2025-03-21,09:00,Group Therapy,50,Completed,108.0,Good progress noted
+S0495,T005,Dr. Lisa Anderson,C026,2025-06-30,14:30,Couples Therapy,60,Completed,155.0,Homework assigned for next week
+S0496,T005,Dr. Lisa Anderson,C034,2025-01-28,16:30,Family Therapy,60,Completed,155.0,Session completed successfully
+S0498,T002,Dr. Michael Chen,C138,2024-08-07,09:00,Group Therapy,50,Completed,105.0,Good progress noted
+S0500,T004,Dr. David Thompson,C044,2024-10-15,14:30,Individual Therapy,50,Completed,180.0,Good progress noted
+S0501,T004,Dr. David Thompson,C035,2025-02-03,17:30,Group Therapy,50,Completed,108.0,Homework assigned for next week
+S0504,T006,Dr. James Wilson,C093,2024-10-16,13:30,Initial Consultation,90,Completed,204.0,Client engaged throughout session
+S0506,T006,Dr. James Wilson,C137,2024-07-11,15:00,Group Therapy,50,Completed,102.0,Client engaged throughout session
+S0507,T001,Dr. Sarah Johnson,C185,2025-02-26,15:00,Individual Therapy,50,No-Show,0.0,Third no-show this month
+S0509,T003,Dr. Emily Rodriguez,C164,2025-07-02,09:00,Group Therapy,50,Completed,96.0,Homework assigned for next week
+S0512,T005,Dr. Lisa Anderson,C023,2025-01-24,11:00,Family Therapy,60,Completed,155.0,Good progress noted
+S0513,T005,Dr. Lisa Anderson,C047,2025-04-09,10:30,Family Therapy,60,Completed,155.0,Homework assigned for next week
+S0514,T002,Dr. Michael Chen,C172,2024-11-28,10:30,Couples Therapy,60,Completed,175.0,"Regular session, no concerns"
+S0515,T006,Dr. James Wilson,C163,2025-02-11,17:00,Group Therapy,50,Completed,102.0,"Regular session, no concerns"
+S0517,T006,Dr. James Wilson,C013,2025-01-30,11:30,Couples Therapy,60,Completed,170.0,Session completed successfully
+S0518,T005,Dr. Lisa Anderson,C106,2024-08-21,16:00,Couples Therapy,60,Completed,155.0,Client engaged throughout session
+S0519,T003,Dr. Emily Rodriguez,C066,2024-08-01,11:00,Family Therapy,60,Completed,160.0,Session completed successfully
+S0520,T006,Dr. James Wilson,C048,2024-09-18,15:30,Initial Consultation,90,Completed,204.0,"Regular session, no concerns"
+S0521,T004,Dr. David Thompson,C001,2025-03-18,12:00,Couples Therapy,60,Completed,180.0,Client engaged throughout session
+S0523,T004,Dr. David Thompson,C134,2024-11-14,13:30,Group Therapy,50,Completed,108.0,Good progress noted
+S0524,T001,Dr. Sarah Johnson,C160,2025-06-05,17:00,Family Therapy,60,Completed,150.0,Session completed successfully
+S0525,T005,Dr. Lisa Anderson,C045,2024-08-14,16:30,Couples Therapy,60,Completed,155.0,"Regular session, no concerns"
+S0526,T002,Dr. Michael Chen,C142,2025-06-03,13:00,Group Therapy,50,Completed,105.0,Good progress noted
+S0527,T006,Dr. James Wilson,C067,2025-04-30,11:00,Family Therapy,60,Completed,170.0,Session completed successfully
+S0528,T001,Dr. Sarah Johnson,C084,2024-09-13,09:00,Group Therapy,50,Completed,90.0,Session completed successfully
+S0529,T002,Dr. Michael Chen,C128,2024-12-16,15:00,Individual Therapy,50,Completed,175.0,"Regular session, no concerns"
+S0530,T003,Dr. Emily Rodriguez,C117,2025-03-05,11:30,Initial Consultation,90,Rescheduled,192.0,Moved to different time slot
+S0531,T001,Dr. Sarah Johnson,C109,2025-02-03,14:30,Initial Consultation,90,Cancelled,0.0,Cancelled due to illness
+S0532,T001,Dr. Sarah Johnson,C013,2025-03-10,12:30,Group Therapy,50,No-Show,0.0,Client not reachable
+S0537,T005,Dr. Lisa Anderson,C091,2024-10-10,12:30,Couples Therapy,60,Cancelled,0.0,Emergency cancellation
+S0538,T003,Dr. Emily Rodriguez,C156,2024-12-12,11:30,Couples Therapy,60,No-Show,0.0,Client did not attend
+S0540,T003,Dr. Emily Rodriguez,C146,2024-09-11,14:30,Individual Therapy,50,Completed,160.0,Client engaged throughout session
+S0541,T004,Dr. David Thompson,C155,2025-01-20,11:00,Individual Therapy,50,Cancelled,0.0,Client requested reschedule
+S0542,T002,Dr. Michael Chen,C200,2024-12-04,12:00,Group Therapy,50,No-Show,0.0,Client did not attend
+S0543,T001,Dr. Sarah Johnson,C159,2024-10-30,10:30,Couples Therapy,60,Cancelled,0.0,Cancelled due to illness
+S0544,T005,Dr. Lisa Anderson,C060,2024-11-25,15:30,Family Therapy,60,Completed,155.0,"Regular session, no concerns"
+S0545,T005,Dr. Lisa Anderson,C015,2025-03-25,09:00,Group Therapy,50,No-Show,0.0,Client did not attend
+S0546,T003,Dr. Emily Rodriguez,C062,2025-01-23,13:30,Initial Consultation,90,Cancelled,0.0,Cancelled due to illness
+S0547,T003,Dr. Emily Rodriguez,C088,2024-10-24,12:00,Couples Therapy,60,Completed,160.0,"Regular session, no concerns"
+S0548,T004,Dr. David Thompson,C109,2024-07-25,11:30,Group Therapy,50,Completed,108.0,Homework assigned for next week
+S0549,T006,Dr. James Wilson,C190,2024-11-28,12:00,Family Therapy,60,Completed,170.0,Session completed successfully
+S0550,T005,Dr. Lisa Anderson,C160,2024-11-04,09:30,Family Therapy,60,No-Show,0.0,Client did not attend
+S0551,T003,Dr. Emily Rodriguez,C060,2025-03-13,17:00,Individual Therapy,50,Completed,160.0,Client engaged throughout session
+S0552,T002,Dr. Michael Chen,C066,2024-12-25,10:00,Individual Therapy,50,Completed,175.0,Client engaged throughout session
+S0554,T006,Dr. James Wilson,C132,2025-02-18,16:30,Family Therapy,60,Completed,170.0,Homework assigned for next week
+S0555,T005,Dr. Lisa Anderson,C056,2024-10-09,12:00,Couples Therapy,60,Completed,155.0,"Regular session, no concerns"
+S0556,T004,Dr. David Thompson,C174,2024-12-27,10:00,Individual Therapy,50,Completed,180.0,Good progress noted
+S0558,T002,Dr. Michael Chen,C034,2024-09-13,12:00,Group Therapy,50,Completed,105.0,Client engaged throughout session
+S0559,T001,Dr. Sarah Johnson,C067,2024-08-19,14:00,Family Therapy,60,No-Show,0.0,No advance notice given
+S0560,T006,Dr. James Wilson,C173,2024-09-16,10:00,Group Therapy,50,Completed,102.0,Session completed successfully
+S0561,T001,Dr. Sarah Johnson,C190,2025-01-31,12:00,Individual Therapy,50,No-Show,0.0,Missed appointment
+S0562,T002,Dr. Michael Chen,C009,2025-01-03,09:30,Family Therapy,60,Completed,175.0,Good progress noted
+S0563,T002,Dr. Michael Chen,C010,2025-03-25,16:00,Individual Therapy,50,Completed,175.0,"Regular session, no concerns"
+S0564,T001,Dr. Sarah Johnson,C145,2025-01-16,09:30,Group Therapy,50,Rescheduled,90.0,Moved to different time slot
+S0565,T006,Dr. James Wilson,C023,2025-04-23,11:00,Group Therapy,50,Completed,102.0,Good progress noted
+S0567,T006,Dr. James Wilson,C021,2024-07-03,16:30,Family Therapy,60,Cancelled,0.0,Cancelled - family emergency
+S0568,T005,Dr. Lisa Anderson,C027,2025-03-28,11:30,Couples Therapy,60,Completed,155.0,"Regular session, no concerns"
+S0569,T006,Dr. James Wilson,C150,2025-03-31,13:00,Couples Therapy,60,Completed,170.0,Client engaged throughout session
+S0571,T001,Dr. Sarah Johnson,C034,2024-10-07,14:00,Individual Therapy,50,Completed,150.0,Session completed successfully
+S0572,T003,Dr. Emily Rodriguez,C116,2025-02-25,13:00,Individual Therapy,50,Completed,160.0,Homework assigned for next week
+S0573,T002,Dr. Michael Chen,C093,2025-04-16,16:30,Group Therapy,50,Cancelled,0.0,Emergency cancellation
+S0574,T006,Dr. James Wilson,C157,2025-04-28,12:00,Couples Therapy,60,Completed,170.0,"Regular session, no concerns"
+S0576,T004,Dr. David Thompson,C165,2025-04-01,13:00,Group Therapy,50,Completed,108.0,Session completed successfully
+S0577,T004,Dr. David Thompson,C148,2024-07-12,12:00,Individual Therapy,50,Completed,180.0,Homework assigned for next week
+S0578,T004,Dr. David Thompson,C095,2025-03-19,15:30,Family Therapy,60,Cancelled,0.0,Cancelled due to illness
+S0579,T001,Dr. Sarah Johnson,C091,2024-11-20,14:30,Initial Consultation,90,Completed,180.0,Client engaged throughout session
+S0580,T004,Dr. David Thompson,C079,2025-05-28,09:00,Group Therapy,50,Completed,108.0,Homework assigned for next week
+S0581,T003,Dr. Emily Rodriguez,C111,2024-09-10,13:30,Family Therapy,60,Completed,160.0,Client engaged throughout session
+S0582,T005,Dr. Lisa Anderson,C036,2025-06-12,10:30,Couples Therapy,60,Completed,155.0,"Regular session, no concerns"
+S0584,T005,Dr. Lisa Anderson,C195,2024-11-19,15:00,Family Therapy,60,Completed,155.0,"Regular session, no concerns"
+S0586,T002,Dr. Michael Chen,C184,2024-09-18,13:00,Family Therapy,60,Completed,175.0,Client engaged throughout session
+S0588,T004,Dr. David Thompson,C063,2024-11-14,12:30,Family Therapy,60,Completed,180.0,"Regular session, no concerns"
+S0590,T002,Dr. Michael Chen,C167,2024-12-09,11:00,Family Therapy,60,Completed,175.0,Homework assigned for next week
+S0591,T002,Dr. Michael Chen,C150,2024-11-06,10:30,Individual Therapy,50,Completed,175.0,"Regular session, no concerns"
+S0592,T003,Dr. Emily Rodriguez,C139,2025-04-30,13:00,Initial Consultation,90,Cancelled,0.0,Cancelled due to illness
+S0594,T005,Dr. Lisa Anderson,C076,2024-07-17,16:00,Group Therapy,50,Completed,93.0,Session completed successfully
+S0596,T002,Dr. Michael Chen,C163,2024-08-16,10:00,Family Therapy,60,Rescheduled,175.0,Moved to different time slot
+S0597,T005,Dr. Lisa Anderson,C106,2025-02-27,16:00,Initial Consultation,90,Completed,186.0,"Regular session, no concerns"
+S0599,T003,Dr. Emily Rodriguez,C183,2025-05-19,14:30,Individual Therapy,50,Completed,160.0,Homework assigned for next week
+S0600,T006,Dr. James Wilson,C014,2025-07-02,10:30,Group Therapy,50,Completed,102.0,"Regular session, no concerns"
+S0601,T001,Dr. Sarah Johnson,C159,2024-09-17,16:30,Initial Consultation,90,Completed,180.0,"Regular session, no concerns"
+S0603,T003,Dr. Emily Rodriguez,C036,2024-09-05,10:00,Group Therapy,50,Completed,96.0,Homework assigned for next week
+S0604,T003,Dr. Emily Rodriguez,C030,2024-07-02,15:30,Family Therapy,60,No-Show,0.0,Third no-show this month
+S0606,T006,Dr. James Wilson,C187,2025-01-16,11:30,Family Therapy,60,Cancelled,0.0,Client requested reschedule
+S0607,T006,Dr. James Wilson,C162,2025-01-14,10:00,Individual Therapy,50,Completed,170.0,Session completed successfully
+S0608,T003,Dr. Emily Rodriguez,C052,2024-12-03,12:00,Group Therapy,50,Cancelled,0.0,Cancelled - family emergency
+S0612,T005,Dr. Lisa Anderson,C076,2025-02-12,11:30,Family Therapy,60,Completed,155.0,Homework assigned for next week
+S0613,T005,Dr. Lisa Anderson,C060,2024-09-23,14:30,Family Therapy,60,Cancelled,0.0,Client cancelled 24 hours in advance
+S0617,T004,Dr. David Thompson,C104,2024-09-17,12:30,Individual Therapy,50,No-Show,0.0,Third no-show this month
+S0618,T002,Dr. Michael Chen,C165,2024-12-02,10:30,Family Therapy,60,Completed,175.0,Client engaged throughout session
+S0619,T002,Dr. Michael Chen,C002,2025-04-03,17:00,Couples Therapy,60,Completed,175.0,Good progress noted
+S0620,T006,Dr. James Wilson,C183,2025-03-05,15:00,Group Therapy,50,No-Show,0.0,Missed appointment
+S0621,T001,Dr. Sarah Johnson,C092,2025-03-11,14:00,Initial Consultation,90,Cancelled,0.0,Cancelled due to illness
+S0624,T001,Dr. Sarah Johnson,C139,2024-07-08,09:00,Group Therapy,50,Completed,90.0,Good progress noted
+S0625,T006,Dr. James Wilson,C067,2025-04-29,12:30,Initial Consultation,90,Completed,204.0,Good progress noted
+S0626,T004,Dr. David Thompson,C197,2025-05-02,10:30,Family Therapy,60,Completed,180.0,Client engaged throughout session
+S0627,T005,Dr. Lisa Anderson,C182,2024-07-30,16:00,Initial Consultation,90,Completed,186.0,Good progress noted
+S0628,T001,Dr. Sarah Johnson,C110,2024-10-04,16:30,Couples Therapy,60,Completed,150.0,Client engaged throughout session
+S0629,T002,Dr. Michael Chen,C160,2025-06-17,14:00,Couples Therapy,60,Completed,175.0,Good progress noted
+S0630,T004,Dr. David Thompson,C143,2024-08-28,16:30,Individual Therapy,50,Completed,180.0,"Regular session, no concerns"
+S0631,T003,Dr. Emily Rodriguez,C172,2025-01-20,12:30,Initial Consultation,90,Completed,192.0,"Regular session, no concerns"
+S0632,T006,Dr. James Wilson,C126,2024-12-06,11:30,Group Therapy,50,Rescheduled,102.0,Client requested different day
+S0633,T006,Dr. James Wilson,C052,2024-11-20,16:00,Couples Therapy,60,Completed,170.0,Good progress noted
+S0634,T006,Dr. James Wilson,C143,2025-07-01,15:30,Initial Consultation,90,Completed,204.0,Good progress noted
+S0635,T003,Dr. Emily Rodriguez,C138,2025-03-13,15:00,Initial Consultation,90,Completed,192.0,Homework assigned for next week
+S0637,T005,Dr. Lisa Anderson,C005,2025-06-23,14:00,Couples Therapy,60,Completed,155.0,"Regular session, no concerns"
+S0642,T005,Dr. Lisa Anderson,C168,2024-07-05,17:00,Couples Therapy,60,Completed,155.0,Session completed successfully
+S0644,T003,Dr. Emily Rodriguez,C015,2025-01-17,10:30,Group Therapy,50,Completed,96.0,Good progress noted
+S0645,T005,Dr. Lisa Anderson,C105,2024-07-22,17:00,Initial Consultation,90,Completed,186.0,"Regular session, no concerns"
+S0648,T003,Dr. Emily Rodriguez,C160,2024-10-23,15:30,Individual Therapy,50,Cancelled,0.0,Cancelled - family emergency
+S0650,T006,Dr. James Wilson,C155,2025-03-20,14:00,Family Therapy,60,Completed,170.0,Session completed successfully
+S0651,T003,Dr. Emily Rodriguez,C095,2024-11-20,17:00,Individual Therapy,50,Completed,160.0,Client engaged throughout session
+S0652,T005,Dr. Lisa Anderson,C095,2024-12-31,16:30,Family Therapy,60,Completed,155.0,Homework assigned for next week
+S0654,T005,Dr. Lisa Anderson,C102,2024-12-24,11:00,Initial Consultation,90,No-Show,0.0,Missed appointment
+S0658,T005,Dr. Lisa Anderson,C190,2024-12-11,12:30,Individual Therapy,50,Completed,155.0,Session completed successfully
+S0661,T005,Dr. Lisa Anderson,C061,2024-08-09,09:00,Group Therapy,50,Completed,93.0,Client engaged throughout session
+S0662,T006,Dr. James Wilson,C140,2024-10-14,17:00,Couples Therapy,60,Completed,170.0,"Regular session, no concerns"
+S0663,T005,Dr. Lisa Anderson,C092,2024-11-19,12:00,Individual Therapy,50,Completed,155.0,"Regular session, no concerns"
+S0666,T006,Dr. James Wilson,C186,2024-07-24,13:00,Individual Therapy,50,Completed,170.0,Good progress noted
+S0667,T005,Dr. Lisa Anderson,C191,2025-04-21,10:00,Family Therapy,60,Completed,155.0,Session completed successfully
+S0669,T002,Dr. Michael Chen,C148,2025-05-26,14:00,Initial Consultation,90,Completed,210.0,"Regular session, no concerns"
+S0671,T005,Dr. Lisa Anderson,C168,2025-03-05,17:30,Group Therapy,50,Completed,93.0,Homework assigned for next week
+S0672,T001,Dr. Sarah Johnson,C106,2024-12-12,12:00,Family Therapy,60,Cancelled,0.0,Client cancelled 24 hours in advance
+S0674,T004,Dr. David Thompson,C188,2024-08-09,11:30,Group Therapy,50,Completed,108.0,"Regular session, no concerns"
+S0675,T006,Dr. James Wilson,C196,2024-09-25,10:30,Couples Therapy,60,Completed,170.0,Good progress noted
+S0676,T004,Dr. David Thompson,C089,2024-09-10,12:00,Individual Therapy,50,Cancelled,0.0,Client cancelled 24 hours in advance
+S0677,T006,Dr. James Wilson,C030,2024-10-10,10:30,Initial Consultation,90,Completed,204.0,Client engaged throughout session
+S0678,T002,Dr. Michael Chen,C035,2025-07-02,13:30,Group Therapy,50,Rescheduled,105.0,Moved to different time slot
+S0680,T004,Dr. David Thompson,C175,2025-06-18,17:30,Individual Therapy,50,Completed,180.0,Homework assigned for next week
+S0681,T002,Dr. Michael Chen,C024,2025-04-30,11:30,Family Therapy,60,Completed,175.0,"Regular session, no concerns"
+S0682,T001,Dr. Sarah Johnson,C189,2025-05-12,09:30,Initial Consultation,90,Completed,180.0,Homework assigned for next week
+S0683,T005,Dr. Lisa Anderson,C058,2024-08-12,13:30,Initial Consultation,90,Completed,186.0,Homework assigned for next week
+S0684,T001,Dr. Sarah Johnson,C001,2024-10-14,16:30,Family Therapy,60,Completed,150.0,Homework assigned for next week
+S0685,T002,Dr. Michael Chen,C144,2025-03-05,16:30,Family Therapy,60,Completed,175.0,Client engaged throughout session
+S0686,T004,Dr. David Thompson,C013,2024-07-17,10:30,Initial Consultation,90,Completed,216.0,Homework assigned for next week
+S0687,T002,Dr. Michael Chen,C014,2025-06-12,15:30,Couples Therapy,60,Cancelled,0.0,Cancelled - family emergency
+S0689,T006,Dr. James Wilson,C154,2024-08-20,12:00,Initial Consultation,90,Completed,204.0,Session completed successfully
+S0690,T002,Dr. Michael Chen,C094,2025-06-02,15:30,Individual Therapy,50,Completed,175.0,Session completed successfully
+S0691,T005,Dr. Lisa Anderson,C034,2025-02-12,09:30,Initial Consultation,90,Completed,186.0,Client engaged throughout session
+S0692,T003,Dr. Emily Rodriguez,C102,2025-04-02,16:30,Family Therapy,60,Completed,160.0,"Regular session, no concerns"
+S0693,T002,Dr. Michael Chen,C044,2025-06-18,11:30,Individual Therapy,50,Completed,175.0,Good progress noted
+S0695,T003,Dr. Emily Rodriguez,C180,2024-07-03,17:00,Group Therapy,50,Completed,96.0,Session completed successfully
+S0696,T005,Dr. Lisa Anderson,C067,2025-03-11,09:00,Couples Therapy,60,Cancelled,0.0,Cancelled - family emergency
+S0697,T003,Dr. Emily Rodriguez,C159,2024-08-30,17:00,Family Therapy,60,Completed,160.0,Session completed successfully
+S0699,T001,Dr. Sarah Johnson,C196,2024-08-14,17:30,Group Therapy,50,No-Show,0.0,Third no-show this month
+S0700,T002,Dr. Michael Chen,C137,2024-08-22,09:00,Initial Consultation,90,Completed,210.0,"Regular session, no concerns"
+S0701,T001,Dr. Sarah Johnson,C182,2024-08-26,11:30,Family Therapy,60,Cancelled,0.0,Client cancelled 24 hours in advance
+S0702,T002,Dr. Michael Chen,C197,2024-09-10,11:30,Couples Therapy,60,Completed,175.0,Client engaged throughout session
+S0704,T001,Dr. Sarah Johnson,C098,2025-01-08,10:00,Initial Consultation,90,Completed,180.0,Client engaged throughout session
+S0707,T004,Dr. David Thompson,C178,2025-04-28,12:00,Group Therapy,50,Cancelled,0.0,Cancelled due to illness
+S0708,T003,Dr. Emily Rodriguez,C173,2025-01-01,16:30,Group Therapy,50,Completed,96.0,Good progress noted
+S0710,T004,Dr. David Thompson,C081,2024-11-07,10:30,Group Therapy,50,Cancelled,0.0,Cancelled due to illness
+S0711,T001,Dr. Sarah Johnson,C192,2024-12-23,16:30,Couples Therapy,60,No-Show,0.0,No advance notice given
+S0712,T004,Dr. David Thompson,C048,2025-06-12,12:30,Individual Therapy,50,Completed,180.0,Client engaged throughout session
+S0714,T002,Dr. Michael Chen,C191,2024-08-19,09:00,Group Therapy,50,Completed,105.0,Good progress noted
+S0715,T001,Dr. Sarah Johnson,C012,2025-06-26,09:00,Couples Therapy,60,Completed,150.0,Good progress noted
+S0717,T003,Dr. Emily Rodriguez,C073,2024-10-29,11:00,Couples Therapy,60,Completed,160.0,Good progress noted
+S0720,T006,Dr. James Wilson,C010,2024-08-15,13:30,Group Therapy,50,Completed,102.0,Good progress noted
+S0723,T003,Dr. Emily Rodriguez,C060,2025-06-02,10:30,Individual Therapy,50,Completed,160.0,Good progress noted
+S0724,T004,Dr. David Thompson,C174,2024-08-08,15:00,Couples Therapy,60,No-Show,0.0,Missed appointment
+S0725,T005,Dr. Lisa Anderson,C098,2025-01-06,17:00,Family Therapy,60,Completed,155.0,Client engaged throughout session
+S0726,T003,Dr. Emily Rodriguez,C016,2024-10-08,12:30,Group Therapy,50,Completed,96.0,"Regular session, no concerns"
+S0730,T003,Dr. Emily Rodriguez,C093,2024-07-19,15:00,Initial Consultation,90,Completed,192.0,Client engaged throughout session
+S0731,T006,Dr. James Wilson,C140,2025-04-22,13:30,Individual Therapy,50,Completed,170.0,Session completed successfully
+S0734,T006,Dr. James Wilson,C153,2025-06-20,12:00,Group Therapy,50,Completed,102.0,Homework assigned for next week
+S0735,T004,Dr. David Thompson,C135,2024-12-10,11:30,Group Therapy,50,Completed,108.0,Session completed successfully
+S0744,T001,Dr. Sarah Johnson,C089,2024-07-02,15:30,Initial Consultation,90,Completed,180.0,Homework assigned for next week
+S0746,T005,Dr. Lisa Anderson,C075,2024-08-13,12:30,Initial Consultation,90,No-Show,0.0,Third no-show this month
+S0747,T006,Dr. James Wilson,C052,2025-05-05,17:00,Initial Consultation,90,Completed,204.0,Homework assigned for next week
+S0748,T001,Dr. Sarah Johnson,C049,2024-07-24,17:00,Initial Consultation,90,Completed,180.0,Homework assigned for next week
+S0749,T005,Dr. Lisa Anderson,C166,2024-09-11,16:00,Initial Consultation,90,Completed,186.0,Homework assigned for next week
+S0750,T005,Dr. Lisa Anderson,C196,2025-02-27,14:00,Couples Therapy,60,Completed,155.0,Good progress noted
+S0751,T005,Dr. Lisa Anderson,C093,2024-11-26,09:00,Family Therapy,60,Completed,155.0,"Regular session, no concerns"
+S0752,T005,Dr. Lisa Anderson,C150,2024-11-20,17:30,Couples Therapy,60,Cancelled,0.0,Cancelled - family emergency
+S0753,T003,Dr. Emily Rodriguez,C182,2025-01-17,16:00,Couples Therapy,60,Cancelled,0.0,Client requested reschedule
+S0754,T004,Dr. David Thompson,C014,2024-10-22,17:30,Individual Therapy,50,No-Show,0.0,Client not reachable
+S0755,T004,Dr. David Thompson,C157,2025-05-26,12:30,Family Therapy,60,Cancelled,0.0,Emergency cancellation
+S0756,T003,Dr. Emily Rodriguez,C029,2024-10-17,17:30,Individual Therapy,50,Cancelled,0.0,Cancelled due to illness
+S0757,T002,Dr. Michael Chen,C104,2024-09-18,10:00,Family Therapy,60,Cancelled,0.0,Cancelled due to illness
+S0758,T005,Dr. Lisa Anderson,C083,2025-04-30,16:00,Group Therapy,50,Completed,93.0,"Regular session, no concerns"
+S0759,T002,Dr. Michael Chen,C186,2025-06-20,10:00,Couples Therapy,60,No-Show,0.0,No advance notice given
+S0760,T005,Dr. Lisa Anderson,C041,2025-04-21,16:30,Couples Therapy,60,Completed,155.0,Homework assigned for next week
+S0761,T004,Dr. David Thompson,C109,2025-05-27,17:00,Initial Consultation,90,Completed,216.0,Homework assigned for next week
+S0763,T006,Dr. James Wilson,C080,2025-04-02,09:00,Initial Consultation,90,Completed,204.0,Good progress noted
+S0764,T001,Dr. Sarah Johnson,C184,2025-02-21,14:00,Initial Consultation,90,Cancelled,0.0,Client cancelled 24 hours in advance
+S0766,T003,Dr. Emily Rodriguez,C086,2025-03-20,13:30,Individual Therapy,50,Completed,160.0,Session completed successfully
+S0767,T003,Dr. Emily Rodriguez,C046,2025-02-27,16:30,Group Therapy,50,Completed,96.0,Good progress noted
+S0768,T002,Dr. Michael Chen,C106,2024-09-26,16:00,Family Therapy,60,Completed,175.0,Homework assigned for next week
+S0770,T004,Dr. David Thompson,C163,2025-07-01,16:30,Individual Therapy,50,Cancelled,0.0,Cancelled - family emergency
+S0771,T006,Dr. James Wilson,C137,2025-06-27,11:00,Group Therapy,50,Completed,102.0,"Regular session, no concerns"
+S0773,T003,Dr. Emily Rodriguez,C056,2025-05-15,16:30,Couples Therapy,60,Completed,160.0,Good progress noted
+S0774,T005,Dr. Lisa Anderson,C091,2024-10-02,14:00,Group Therapy,50,Completed,93.0,Session completed successfully
+S0776,T005,Dr. Lisa Anderson,C080,2024-09-19,09:30,Initial Consultation,90,No-Show,0.0,Client not reachable
+S0777,T006,Dr. James Wilson,C163,2025-04-30,14:00,Individual Therapy,50,Completed,170.0,Homework assigned for next week
+S0778,T003,Dr. Emily Rodriguez,C119,2024-07-03,16:30,Group Therapy,50,Completed,96.0,Good progress noted
+S0779,T005,Dr. Lisa Anderson,C017,2025-02-14,10:30,Group Therapy,50,Cancelled,0.0,Client cancelled 24 hours in advance
+S0781,T004,Dr. David Thompson,C098,2024-09-30,09:00,Couples Therapy,60,Completed,180.0,Session completed successfully
+S0782,T004,Dr. David Thompson,C079,2025-06-10,17:00,Group Therapy,50,Cancelled,0.0,Client cancelled 24 hours in advance
+S0783,T004,Dr. David Thompson,C172,2025-06-25,11:30,Individual Therapy,50,No-Show,0.0,Client did not attend
+S0785,T002,Dr. Michael Chen,C132,2024-08-08,16:30,Individual Therapy,50,Completed,175.0,Good progress noted
+S0788,T005,Dr. Lisa Anderson,C061,2025-06-13,15:00,Initial Consultation,90,Cancelled,0.0,Cancelled due to illness
+S0789,T003,Dr. Emily Rodriguez,C136,2025-04-25,17:30,Family Therapy,60,Completed,160.0,Good progress noted
+S0790,T004,Dr. David Thompson,C186,2024-08-02,14:00,Initial Consultation,90,Completed,216.0,Homework assigned for next week
+S0792,T006,Dr. James Wilson,C032,2025-05-23,16:30,Initial Consultation,90,Completed,204.0,Client engaged throughout session
+S0794,T002,Dr. Michael Chen,C045,2025-05-19,16:30,Group Therapy,50,Completed,105.0,"Regular session, no concerns"
+S0795,T003,Dr. Emily Rodriguez,C017,2025-03-26,11:30,Individual Therapy,50,Completed,160.0,Client engaged throughout session
+S0796,T005,Dr. Lisa Anderson,C052,2024-12-10,12:00,Initial Consultation,90,Cancelled,0.0,Cancelled due to illness
+S0797,T006,Dr. James Wilson,C082,2025-01-17,11:00,Individual Therapy,50,Completed,170.0,Session completed successfully
+S0798,T001,Dr. Sarah Johnson,C031,2024-10-29,16:30,Group Therapy,50,Cancelled,0.0,Cancelled - family emergency
+S0799,T006,Dr. James Wilson,C103,2024-10-07,14:00,Family Therapy,60,Completed,170.0,"Regular session, no concerns"
+S0800,T005,Dr. Lisa Anderson,C124,2025-07-01,10:00,Individual Therapy,50,Completed,155.0,Good progress noted
